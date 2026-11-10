@@ -1,0 +1,13 @@
+{
+  "name": "shopify-sale-manager",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Schedules back-to-back automatic discounts and marks compare-at prices across a Shopify catalog, with a price backup and one-command restore.",
+  "main": "src/sale-manager.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "status": "node src/sale-manager.js status",
+    "help": "node src/sale-manager.js"
+  }
+}

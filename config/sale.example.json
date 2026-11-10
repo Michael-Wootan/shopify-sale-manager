@@ -1,0 +1,13 @@
+{
+  "phase1": {
+    "title": "Spring Sale",
+    "percent": 15,
+    "startsAt": "2027-04-01T05:00:00Z"
+  },
+  "phase2": {
+    "title": "Spring Sale Final Weekend",
+    "percent": 20,
+    "startsAt": "2027-04-20T05:00:00Z",
+    "endsAt": "2027-04-22T07:59:00Z"
+  }
+}
